@@ -1,6 +1,6 @@
 /*
 Alexander Ching
-CSE 562 WINTER 2021 A2
+CSE 562 SPRING 2021 A2
 
 Adapted from
 https://github.com/wanganran/CSE562_Android_sample/blob/main/StepCounter/MainActivity.java
